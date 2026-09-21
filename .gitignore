@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.csv
+
+# PlatformIO & C++
+.pio/
+.vscode/
+*.bin
+*.elf
+
+# Variables de entorno
+.env
